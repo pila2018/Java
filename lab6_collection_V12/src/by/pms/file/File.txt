@@ -1,0 +1,3 @@
+1 Ogyrec 927316298 NFE_International 200.20 10 400_Shtyk
+2 Milk 823918239 Tovarishestvo_Ogogrodnikov 2031.99 3 200_Litrov
+3 Svinina 927382753 OOO_HozTorg 273.1 2 90_Kg
